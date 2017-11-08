@@ -26,20 +26,28 @@ namespace UniversalDataBase
             connect formulario = new connect();
             formulario.ShowDialog();
             IConnect conn = formulario.newConnection;
-
+            
 
             userControls.userQueryScreen screen = new userControls.userQueryScreen();
             screen.connect = conn;
             screen.Dock = DockStyle.Fill;
             screen.Anchor = (AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right | AnchorStyles.Top);
 
-            TabPage tabConn = new TabPage();
-            tabConn.Text = conn.returnName();
-            tabConn.AutoScroll = true;
-            tabConn.VerticalScroll = true;
-            tabConn.Controls.Add(screen);
-            tabControl.TabPages.Add(tabConn);
+            try
+            {
+                TabPage tabConn = new TabPage();
+                tabConn.Text = conn.returnName();
+                tabConn.AutoScroll = true;
+                tabConn.Controls.Add(screen);
+                tabControl.TabPages.Add(tabConn);
+            }
+            catch
+            {
+                MessageBox.Show("No fue posible establecer una conexión", "Alerta SQL Client");
+            }
+             
             
+
         }
     }
 }

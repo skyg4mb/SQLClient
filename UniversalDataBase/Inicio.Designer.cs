@@ -80,7 +80,7 @@
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
-            // Form1
+            // Inicio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -88,7 +88,7 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.tabControl);
             this.Controls.Add(this.statusStrip1);
-            this.Name = "Form1";
+            this.Name = "Inicio";
             this.Text = "Universal DataBase";
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();

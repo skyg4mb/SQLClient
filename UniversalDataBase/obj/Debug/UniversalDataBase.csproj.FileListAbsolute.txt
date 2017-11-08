@@ -12,3 +12,12 @@ C:\Users\dagamboape\Documents\Visual Studio 2015\Projects\UniversalDataBase\Univ
 C:\Users\dagamboape\Documents\Visual Studio 2015\Projects\UniversalDataBase\UniversalDataBase\obj\Debug\UniversalDataBase.userControls.userQueryScreen.resources
 C:\Users\dagamboape\Documents\Visual Studio 2015\Projects\UniversalDataBase\UniversalDataBase\obj\Debug\UniversalDataBase.csprojResolveAssemblyReference.cache
 C:\Users\dagamboape\Documents\Visual Studio 2015\Projects\UniversalDataBase\UniversalDataBase\obj\Debug\UniversalDataBase.Inicio.resources
+C:\Users\Diego Gamboa\Source\Repos\SQLClient\UniversalDataBase\obj\Debug\UniversalDataBase.connect.resources
+C:\Users\Diego Gamboa\Source\Repos\SQLClient\UniversalDataBase\obj\Debug\UniversalDataBase.Inicio.resources
+C:\Users\Diego Gamboa\Source\Repos\SQLClient\UniversalDataBase\obj\Debug\UniversalDataBase.Properties.Resources.resources
+C:\Users\Diego Gamboa\Source\Repos\SQLClient\UniversalDataBase\obj\Debug\UniversalDataBase.userControls.userQueryScreen.resources
+C:\Users\Diego Gamboa\Source\Repos\SQLClient\UniversalDataBase\obj\Debug\UniversalDataBase.csproj.GenerateResource.Cache
+C:\Users\Diego Gamboa\Source\Repos\SQLClient\UniversalDataBase\obj\Debug\UniversalDataBase.exe
+C:\Users\Diego Gamboa\Source\Repos\SQLClient\UniversalDataBase\obj\Debug\UniversalDataBase.pdb
+C:\Users\Diego Gamboa\Source\Repos\SQLClient\UniversalDataBase\bin\Debug\UniversalDataBase.exe
+C:\Users\Diego Gamboa\Source\Repos\SQLClient\UniversalDataBase\bin\Debug\UniversalDataBase.pdb
