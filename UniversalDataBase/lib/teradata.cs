@@ -23,7 +23,7 @@ namespace UniversalDataBase.lib
             return conn.Nombre;
         }
 
-        public DataTable returnResult(string query)
+        public DataTable returnResult(string query, out string mensaje)
         {
             try
             {
@@ -38,11 +38,13 @@ namespace UniversalDataBase.lib
                     DataSet ds = new DataSet();
                     adapter.Fill(ds);
                     var dt = ds.Tables[0];
+                    mensaje = "Se consultaron " + dt.Rows.Count.ToString() + " registros.";
                     return dt;
                 }
             }
             catch (Exception e)
             {
+                mensaje = e.Message;
                 return null;
             }
         }

@@ -25,7 +25,9 @@ namespace UniversalDataBase.userControls
 
         private void button1_Click(object sender, EventArgs e)
         {
-            dataGridView.DataSource = connect.returnResult(textBoxQuery.Text);
+            string mensaje="";
+            dataGridView.DataSource = connect.returnResult(textBoxQuery.Text, out mensaje);
+            MessageBox.Show(mensaje, "Alerta SQL Client");
         }
 
         private void dataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)

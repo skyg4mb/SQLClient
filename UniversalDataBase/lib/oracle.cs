@@ -21,7 +21,7 @@ namespace UniversalDataBase.lib
         {
             return conn.Nombre;
         }
-        public DataTable returnResult(string query)
+        public DataTable returnResult(string query, out string mensaje)
         {
             try
             {
@@ -35,11 +35,13 @@ namespace UniversalDataBase.lib
                     OracleDataReader dr = cmd.ExecuteReader();
                     var dt = new DataTable();
                     dt.Load(dr);
+                    mensaje = "Se consultaron " + dt.Rows.Count.ToString() + " registros.";
                     return dt;
                 }
             }
             catch (Exception e)
             {
+                mensaje = e.Message;
                 return null;
             }
         }
