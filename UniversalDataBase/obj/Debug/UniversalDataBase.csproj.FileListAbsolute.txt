@@ -1,0 +1,14 @@
+c:\users\dagamboape\documents\visual studio 2015\Projects\UniversalDataBase\UniversalDataBase\bin\Debug\UniversalDataBase.exe
+c:\users\dagamboape\documents\visual studio 2015\Projects\UniversalDataBase\UniversalDataBase\bin\Debug\UniversalDataBase.pdb
+c:\users\dagamboape\documents\visual studio 2015\Projects\UniversalDataBase\UniversalDataBase\obj\Debug\UniversalDataBase.connect.resources
+c:\users\dagamboape\documents\visual studio 2015\Projects\UniversalDataBase\UniversalDataBase\obj\Debug\UniversalDataBase.Properties.Resources.resources
+c:\users\dagamboape\documents\visual studio 2015\Projects\UniversalDataBase\UniversalDataBase\obj\Debug\UniversalDataBase.csproj.GenerateResource.Cache
+c:\users\dagamboape\documents\visual studio 2015\Projects\UniversalDataBase\UniversalDataBase\obj\Debug\UniversalDataBase.exe
+c:\users\dagamboape\documents\visual studio 2015\Projects\UniversalDataBase\UniversalDataBase\obj\Debug\UniversalDataBase.pdb
+c:\users\dagamboape\documents\visual studio 2015\Projects\UniversalDataBase\UniversalDataBase\bin\Debug\Teradata.Client.Provider.dll
+c:\users\dagamboape\documents\visual studio 2015\Projects\UniversalDataBase\UniversalDataBase\bin\Debug\Teradata.Client.Provider.xml
+c:\users\dagamboape\documents\visual studio 2015\Projects\UniversalDataBase\UniversalDataBase\bin\Debug\ja\Teradata.Client.Provider.resources.dll
+C:\Users\dagamboape\Documents\Visual Studio 2015\Projects\UniversalDataBase\UniversalDataBase\bin\Debug\Oracle.DataAccess.dll
+C:\Users\dagamboape\Documents\Visual Studio 2015\Projects\UniversalDataBase\UniversalDataBase\obj\Debug\UniversalDataBase.userControls.userQueryScreen.resources
+C:\Users\dagamboape\Documents\Visual Studio 2015\Projects\UniversalDataBase\UniversalDataBase\obj\Debug\UniversalDataBase.csprojResolveAssemblyReference.cache
+C:\Users\dagamboape\Documents\Visual Studio 2015\Projects\UniversalDataBase\UniversalDataBase\obj\Debug\UniversalDataBase.Inicio.resources
